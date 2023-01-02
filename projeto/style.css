@@ -39,3 +39,22 @@ iframe#home{
     width: 197px;
     height: 347px;
 }
+
+section#icones{
+    text-align: right;
+}
+
+section#icones > a > img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.377);
+    box-sizing: border-box; /* A borda fará parte da caixa */
+}
+
+section#icones > a > img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.582);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.425);
+    transition: transform 0.3s;
+}
