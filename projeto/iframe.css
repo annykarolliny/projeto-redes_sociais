@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar{
+    height: 0px;
+    width: 0px;
+}
+
+img{
+    width: 100vw;
+    background-size: cover;
+}
+
+a{
+    display: block;
+    background-color: rgb(40, 40, 119);
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(34, 34, 160);
+}
