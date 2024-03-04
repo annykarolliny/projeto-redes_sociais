@@ -1,2 +1,2 @@
 # projeto.redes_sociais
-Projeto exibindo visualização das Redes Sociais
+Projeto desenvolvido com o intuito de exibir as Redes Sociais em uma tela improvisada de smartphone.
